@@ -1,0 +1,6 @@
+c:\users\przemyslaw.soszynski\documents\visual studio 2015\Projects\BridgeCrossing\BridgeCrossing\bin\Debug\BridgeCrossing.exe.config
+c:\users\przemyslaw.soszynski\documents\visual studio 2015\Projects\BridgeCrossing\BridgeCrossing\bin\Debug\BridgeCrossing.exe
+c:\users\przemyslaw.soszynski\documents\visual studio 2015\Projects\BridgeCrossing\BridgeCrossing\bin\Debug\BridgeCrossing.pdb
+c:\users\przemyslaw.soszynski\documents\visual studio 2015\Projects\BridgeCrossing\BridgeCrossing\obj\Debug\BridgeCrossing.csprojResolveAssemblyReference.cache
+c:\users\przemyslaw.soszynski\documents\visual studio 2015\Projects\BridgeCrossing\BridgeCrossing\obj\Debug\BridgeCrossing.exe
+c:\users\przemyslaw.soszynski\documents\visual studio 2015\Projects\BridgeCrossing\BridgeCrossing\obj\Debug\BridgeCrossing.pdb
